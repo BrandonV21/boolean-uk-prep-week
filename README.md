@@ -18,4 +18,4 @@ GitHub will tell you the fork is in progress. Once it's complete, you will then 
  
 ![Fork Button](images/fork-complete.png)
  
-...and that's it! This is the process you'll go through when you work on afternoon exercises and projects. If you run into any issues creating the fork just as in your `#support` channel in Discord.
+...and that's it! This is the process you'll go through when you work on afternoon exercises and projects. If you run into any issues creating the fork just ask for help in your `#support` channel in Discord.
